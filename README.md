@@ -43,8 +43,9 @@
     <p align="center">
         <br />
         <!-- Activity Widget -->
-        <img alt="Lucas Torres GitHub Stats"
-                    src="https://github-readme-stats.vercel.app/api?username=lucastorres37&show_icons=true&theme=github_dark" />
+            <img alt="Lucas Torres GitHub Stats"
+            <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=lucastorres37&show_icons=true&count_private=true&theme=github_dark&hide_border=true&hide=issues,contribs&bg_color=00000000">
+      <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=lucastorres37&layout=compact&hide_border=true&theme=github_dark&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
         <br />
         <!-- Social Links -->
         <p>Find me on</p>
@@ -69,7 +70,14 @@
         <br>
         "Happy Coding👨‍💻"
     </p>
+    <div align="center">
+        <a href="https://github.com/tthn0/Spotify-Readme">
+                <img src="https://spotify-readme-chi-seven.vercel.app/api?theme=dark" alt="Current Spotify Song">  
+        </a>
+    </div>
+        
 </samp>
+
 
 <!-- Featured Repositories -->
 #### Featured
