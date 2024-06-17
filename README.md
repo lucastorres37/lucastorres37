@@ -12,9 +12,9 @@
 <p align="center">
         <!-- Intro -->
         <samp>
-                「 I'm a new software developer and I've been doing projects for the web, mobile and desktop 」
+                「 I'm a new software developer and I've been doing projects for the web and desktop 」
                 <br>
-                「 Lately I've been focused on learning Next.js </b> 」
+                「 Lately I've been focused on learning C# </b> 」
                 <br>
                 <br>
         </samp>
